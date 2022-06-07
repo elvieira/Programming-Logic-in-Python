@@ -1,6 +1,7 @@
 import random
 
 va = random.randint(1,10)
+print("TENTE ACERTAR O NÚMERO QUE FOI GERADO")
 vu = int(input("Digite um número de 1 a 10: "))
 
 while True:
